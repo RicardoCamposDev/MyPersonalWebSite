@@ -1,0 +1,30 @@
+/*Tag selectors*/
+
+body{
+  background-color:#87CEEB;
+}
+
+h1{
+  color:grey;
+  font-size: 50px;
+}
+
+h3{
+  color:grey;
+
+}
+
+hr{
+  border-color: #008000;
+  border-style: dotted;
+  border-width: none;
+}
+
+/*Class Selectors*/
+.image:hover{
+  background-color: white;
+}
+/*ID Selectors*/
+#heading{
+  color: brown;
+}
