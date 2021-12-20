@@ -1,2 +1,2 @@
 # MyPersonalWebSite
-This is a own project that I developed to have my personal website available for all.
+This is a own project that I developed to have a simple personal website available for all.
